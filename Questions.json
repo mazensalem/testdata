@@ -1,0 +1,42 @@
+{
+  "Questions": [
+    {
+      "Question": "question 1",
+      "Type": "الفرعوني",
+      "Building": "اهرامات الجيزة",
+      "Answers": [
+        [
+          "A1",
+          true
+        ],
+        [
+          "A2",
+          false
+        ],
+        [
+          "A3",
+          false
+        ]
+      ]
+    },
+    {
+      "Question": "question 2",
+      "Type": "T2",
+      "Building": "B2",
+      "Answers": [
+        [
+          "A1",
+          true
+        ],
+        [
+          "A2",
+          false
+        ],
+        [
+          "A3",
+          false
+        ]
+      ]
+    }
+  ]
+}
